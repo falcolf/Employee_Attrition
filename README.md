@@ -1,2 +1,3 @@
-# Employee_Attrition
-Summer Analytics 2020 Capstone Project
+# Summer Analytics 2020 Capstone Project
+#### Predicting Employee Attrition in the Dawn of Recession
+
