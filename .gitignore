@@ -1,3 +1,6 @@
 models/*
 submissions/*
-
+catboost_info/*
+Legacy_Code/models/*
+Legacy_Code/submissions/*
+Legacy_Code/catboost_info/*
